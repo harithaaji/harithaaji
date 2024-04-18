@@ -4,7 +4,7 @@ Welcome to my GitHub profile portfolio! You'll find some of my projects, skills,
 
 ## 👩🏻‍💻 About Me
 
-I'm Haritha Aji, a Health Informatics Master's student with a passion for [Your Passion/Interest]. I specialize in [Your Specialization/Area of Expertise] and enjoy tackling challenges to create meaningful solutions.
+I'm Haritha Aji, a Health Informatics Master's student. I specialize in Health Informatics. I enjoy tackling challenges to create meaningful solutions.
 
 ## 💼 Projects
 
