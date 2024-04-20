@@ -9,10 +9,19 @@ I'm Haritha Aji, a passionate Health Informatics Master's student with a backgro
 ## 💼 Projects
 
 ### Public Health Disease Surveillance Architecture Development Project
-- **Description:**   In these project, I learned the installation, configuration, and utilization of essential tools and technologies for developing a robust Public Health Disease Surveillance Architecture. This architecture aims to streamline the collection, storage, and analysis of public health data, enabling early detection and response to disease outbreaks. The assignment focus on : OpenEMR, Synthea,  FHIR server using HAPI-FHIR.
-- **Skills/Technologies Used:** Virtualization, Network Architecture, MySQL, Linux Administration, Python, RESTful APIs for data exchange between different systems, Knowledge of security principles and practices for ensuring data confidentiality, integrity, and availability in surveillance systems, Skills in scripting languages, Data Analysis, Geographic Information Systems (GIS), Epidemiological principles, HL7 FHIR (Fast Healthcare Interoperability Resources), HAPI-FHIR.
+- **Description:**
+
+- In these project, I learned the installation, configuration, and utilization of essential tools and technologies for developing a robust Public Health Disease Surveillance Architecture. This architecture aims to streamline the collection, storage, and analysis of public health data, enabling early detection and response to disease outbreaks. The assignment focus on : OpenEMR, Synthea,  FHIR server using HAPI-FHIR.
+
+  
+- **Skills/Technologies Used:**
+
+-   Virtualization, Network Architecture, MySQL, Linux Administration, Python, RESTful APIs for data exchange between different systems, Knowledge of security principles and practices for ensuring data confidentiality, integrity, and availability in surveillance systems, Skills in scripting languages, Data Analysis, Geographic Information Systems (GIS), Epidemiological principles, HL7 FHIR (Fast Healthcare Interoperability Resources), HAPI-FHIR.
 ### Emerging Research: Measles, Population Health Research Project
-- **Description:** This research project focuses on analyzing the resurgence of measles over the past four years and its implications for healthcare infrastructure. It explores existing countermeasures against this major infectious disease from the 20th century and investigates opportunities for modernizing disease surveillance systems. Additionally, the project aims to implement participatory health informatics (PHI) techniques to address declining immunization rates. It also examines the effects of social media trends on measles awareness and vaccination efforts.
+
+- **Description:**
+
+- This research project focuses on analyzing the resurgence of measles over the past four years and its implications for healthcare infrastructure. It explores existing countermeasures against this major infectious disease from the 20th century and investigates opportunities for modernizing disease surveillance systems. Additionally, the project aims to implement participatory health informatics (PHI) techniques to address declining immunization rates. It also examines the effects of social media trends on measles awareness and vaccination efforts.
 
 
 -***Key Findings***
@@ -30,7 +39,9 @@ Global Collaboration: International cooperation is pivotal in addressing measles
 -***Personal Contributions***
 
 In collaboration with a peer, I conducted in-depth research on measles and its correlation with informatics. Our joint efforts encompassed thorough data analysis, fostering a deeper comprehension of measles surveillance and informatics, thereby enhancing our academic acumen.
-- **Skills/Technologies Used:** Data visualization, Geographic Information Systems (GIS), Participatory health informatics (PHI) tools, Legal and ethical frameworks in public health.
+- **Skills/Technologies Used:**
+
+- Data visualization, Geographic Information Systems (GIS), Participatory health informatics (PHI) tools, Legal and ethical frameworks in public health.
 
 
 
