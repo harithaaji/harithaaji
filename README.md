@@ -4,7 +4,7 @@ Welcome to my GitHub profile portfolio! You'll find some of my projects, skills,
 
 ## 👩🏻‍💻 About Me
 
-I'm Haritha Aji, a passionate Health Informatics Master's student with a background in Homoeopathic Medicine. I specialize in Health Informatics. I enjoy tackling challenges to create meaningful solutions that bridge the gap between traditional medicine and modern healthcare practices.
+I'm Haritha Aji, a passionate Health Informatics Master's student with a background in Homoeopathic Medicine. I specialize in programming and Data analysis. I enjoy tackling challenges to create meaningful solutions that bridge the gap between traditional medicine and modern healthcare practices.
 
 ## 💼 Projects
 
